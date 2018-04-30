@@ -1,0 +1,29 @@
+{
+  "name": "inverted-index-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexcorp16/inverted-index-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexcorp16/inverted-index-api/issues"
+  },
+  "homepage": "https://github.com/lexcorp16/inverted-index-api#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "jasmine-node": "^1.14.5",
+    "supertest": "^3.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^5.0.1"
+  }
+}
